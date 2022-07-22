@@ -1,2 +1,2 @@
 # DataCamp-DataAnalystCertification--Travel-Insurance
-This repository Contain the elements for the case study to obtain the Professional Data Analyst certification isssued by DataCamp
+This repository Contains the data and the ppt presentation for my case study to obtain the data analyst certificate issued by datacamp.
